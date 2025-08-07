@@ -8,6 +8,7 @@ class BootRestFindAdharApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("This line added at local system");
 	}
 
 }
