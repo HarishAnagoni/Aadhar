@@ -10,8 +10,9 @@ class BootRestFindAdharApplicationTests {
 	void contextLoads() {
 		System.out.println("This line added at local system");
 		
-		System.out.println("This line added at Remote system");
-		System.out.println("This line added by harish");
+
+		System.out.println("This line added at Remote system");	
+		System.out.println("This line added by Remotelocalharish");
 	}
 
 }
